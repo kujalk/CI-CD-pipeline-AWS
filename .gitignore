@@ -1,0 +1,5 @@
+*.PNG
+*.tfstate*
+*.txt
+*.docx
+.terraform*
